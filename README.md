@@ -19,11 +19,20 @@ This project is an implementation based on a tutorial that guides you through th
 This tutorial aims to provide beginners with a foundational understanding of Three.js, a library for creating immersive 3D websites with minimal code. The potential series will delve deeper into Three.js and incorporate 3D modeling with Blender.
 
 ## Technologies
-The project uses the following technologies:
-- Three.js
-- WebGL
-- GSAP (GreenSock Animation Platform)
-- Vite
+
+1. **[Three.js](https://threejs.org/):**
+   - Description: Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
+   - Documentation: [Three.js Documentation](https://threejs.org/docs/)
+
+2. **[GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/):**
+   - Description: GSAP is a powerful JavaScript animation library for creating smooth and efficient animations.
+   - Documentation: [GSAP Documentation](https://greensock.com/docs/)
+
+3. **[Vite](https://vitejs.dev/):**
+   - Description: Vite is a fast build tool that significantly improves the frontend development experience. It serves as a Next Generation Frontend Tooling.
+   - Documentation: [Vite Documentation](https://vitejs.dev/guide/)
+
+Feel free to explore the provided links for each technology to access their official documentation and learn more about their features and usage.
 
 ## Launch
 To run the project locally, follow these steps:
