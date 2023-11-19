@@ -6,17 +6,12 @@
 This project is an implementation based on a tutorial that guides you through the process of using Three.js—a powerful library on top of WebGL for creating immersive 3D websites with minimal code.
 
 ## Table of Contents
-* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Launch](#launch)
 * [Illustrations](#illustrations)
 * [Scope of Functionalities](#scope-of-functionalities)
 * [Examples of Use](#examples-of-use)
 * [Tutorial Source](#tutorial-source)
-
-
-## Introduction
-This tutorial aims to provide beginners with a foundational understanding of Three.js, a library for creating immersive 3D websites with minimal code. The potential series will delve deeper into Three.js and incorporate 3D modeling with Blender.
 
 ## Technologies
 
