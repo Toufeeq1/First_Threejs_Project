@@ -3,7 +3,7 @@
 
 ## Three.js Beginner Tutorial
 
-This project is an implementation based on a tutorial that guides you through the process of using Three.js—a powerful library on top of WebGL for creating immersive 3D websites with minimal code.
+This project is an implementation based on a tutorial that guides you through the process of using Three.js a powerful library on top of WebGL for creating immersive 3D websites with minimal code.
 
 ## Table of Contents
 * [Technologies](#technologies)
