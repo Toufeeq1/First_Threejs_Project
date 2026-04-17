@@ -48,6 +48,6 @@ The current project provides a basic example of creating a 3D sphere using Three
 Explore the provided Three.js script in `main.js` for a hands-on example of creating a 3D sphere with animation and interactive color changes.
 
 ## Inspirational Source
-This project was created following a tutorial from [YouTube](https://youtu.be/_OwJV2xL8M8?si=p8viMKwj5rUvWSRs). All credit for the tutorial content goes to the original creator.
+This project was created following a tutorial from [YouTube](https://youtu.be/_OwJV2xL8M8?si=p8viMKwj5rUvWSRs). 
 
 Happy coding!
